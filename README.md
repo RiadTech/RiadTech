@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Riad</h1>
-<p>
-```py
-class Riad:
-  def __init__(self) -> None:
-    self.name = "Riad"
-    self.pronouns = "He/Him"
-```
-</p>
 
 <h3 align="center">A ML/AI developer from Algeria</h3>
 
